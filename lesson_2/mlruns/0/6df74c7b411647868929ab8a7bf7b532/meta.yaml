@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bphil/education/zoomcamp/mlops-zoomcamp-main/02-experiment-tracking/mlruns/0/6df74c7b411647868929ab8a7bf7b532/artifacts
+end_time: 1717080357329
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6df74c7b411647868929ab8a7bf7b532
+run_name: casual-croc-548
+run_uuid: 6df74c7b411647868929ab8a7bf7b532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717080214359
+status: 4
+tags: []
+user_id: bphil

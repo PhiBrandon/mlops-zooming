@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bphil/education/zoomcamp/mlops-zoomcamp-main/02-experiment-tracking/mlruns/0/c42b4c47b7e14895bb0c3d4857a14061/artifacts
+end_time: 1717080047915
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c42b4c47b7e14895bb0c3d4857a14061
+run_name: caring-auk-701
+run_uuid: c42b4c47b7e14895bb0c3d4857a14061
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717080033450
+status: 3
+tags: []
+user_id: bphil

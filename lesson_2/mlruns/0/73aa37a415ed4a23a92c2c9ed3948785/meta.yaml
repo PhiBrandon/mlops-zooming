@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bphil/education/zoomcamp/mlops-zoomcamp-main/02-experiment-tracking/mlruns/0/73aa37a415ed4a23a92c2c9ed3948785/artifacts
+end_time: 1717079623353
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73aa37a415ed4a23a92c2c9ed3948785
+run_name: big-yak-341
+run_uuid: 73aa37a415ed4a23a92c2c9ed3948785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717079604848
+status: 3
+tags: []
+user_id: bphil
